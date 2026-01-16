@@ -1,0 +1,12 @@
+Total,no,yes,Test stat.,P value
+Mother's age(yr) (median(IQR)),"23 (19,28)","22 (19.5,25)",Ranksum test,0.247
+,,,,
+Mother's weight(lbs) median(IQR),"123.5 (113,147)","120 (104,130)",Ranksum test,0.013
+,,,,
+Mother's race,,,Chisq. (2 df) = 5,0.082
+white,73 (56.2),23 (39),,
+black,15 (11.5),11 (18.6),,
+other,42 (32.3),25 (42.4),,
+Smoking status,,,Chisq. (1 df) = 4.92,0.026
+no,86 (66.2),29 (49.2),,
+yes,44 (33.8),30 (50.8),,
